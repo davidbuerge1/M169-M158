@@ -5,6 +5,10 @@ Das Arbeitsjournal dient dazu, Arbeitsaktivitäten zu verwalten, Prioritäten zu
 1. [28.02.2024](#datum-28022024)
 2. [06.03.2024](#datum-06032024)
 3. [07.03.2024](#datum-07032024)
+4. [27.03.2024](#datum-27032024)
+5. [03.04.2024](#datum-03042024)
+6. [06.04.2024](#datum-06042024)
+7. [07.04.2024](#datum-07042024)
 
 ## Datum: 28.02.2024
 
@@ -48,6 +52,53 @@ Das Arbeitsjournal dient dazu, Arbeitsaktivitäten zu verwalten, Prioritäten zu
 ### Aufgaben
 - Abschluss und Abgabe Lastenheft
 - Abschluss und Abgabe Testkonzept
+
+
+### Probleme/Herausforderungen
+
+## Datum: 27.03.2024
+
+### Zeitaufwand: 2 Lektionen
+
+### Aufgaben
+- Erstellung des Konzepts
+- Beginn ausfüllen des Konzepts
+- Erschaffen eines Überblicks über die Aufträge
+
+### Probleme/Herausforderungen
+- 
+
+## Datum: 03.04.2024
+
+### Zeitaufwand: 2 Lektionen
+
+### Aufgaben
+- Ergänzung der Lösungsvorschläge
+
+
+### Probleme/Herausforderungen
+
+## Datum: 06.04.2024
+
+### Zeitaufwand: 3.5 Stunden
+
+### Aufgaben
+- Ergänzung Proof of Concept
+- Testing mit der alten umgebung und Testing Container
+- Erstellung Glossar
+- Ergänzung der Meilensteine
+
+
+### Probleme/Herausforderungen
+- Leider wurde mir in der Gruppe nicht viel geholfen, sodass ich das Dokument fast komplett alleine erstellt und asfüllen musste.
+
+- ## Datum: 07.04.2024
+
+### Zeitaufwand: 3 Stunden
+
+### Aufgaben
+- Überarbeitung der bisherigen Kapitel
+- Ergänzung der Arbeitspakete
 
 
 ### Probleme/Herausforderungen
