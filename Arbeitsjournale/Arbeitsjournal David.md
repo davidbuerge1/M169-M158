@@ -92,7 +92,7 @@ Das Arbeitsjournal dient dazu, Arbeitsaktivitäten zu verwalten, Prioritäten zu
 ### Probleme/Herausforderungen
 - Leider wurde mir in der Gruppe nicht viel geholfen, sodass ich das Dokument fast komplett alleine erstellt und asfüllen musste.
 
-- ## Datum: 07.04.2024
+## Datum: 07.04.2024
 
 ### Zeitaufwand: 3 Stunden
 
