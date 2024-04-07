@@ -51,4 +51,51 @@ Das Arbeitsjournal dient dazu, Arbeitsaktivitäten zu verwalten, Prioritäten zu
 
 
 ### Probleme/Herausforderungen
+
+## Datum: 27.03.2024
+
+### Zeitaufwand: 2 Lektionen
+
+### Aufgaben
+- Erstellung des Konzepts
+- Beginn ausfüllen des Konzepts
+- Erschaffen eines Überblicks über die Aufträge
+
+### Probleme/Herausforderungen
+- 
+
+## Datum: 03.04.2024
+
+### Zeitaufwand: 2 Lektionen
+
+### Aufgaben
+- Ergänzung der Lösungsvorschläge
+
+
+### Probleme/Herausforderungen
+
+## Datum: 06.04.2024
+
+### Zeitaufwand: 3.5 Stunden
+
+### Aufgaben
+- Ergänzung Proof of Concept
+- Testing mit der alten umgebung und Testing Container
+- Erstellung Glossar
+- Ergänzung der Meilensteine
+
+
+### Probleme/Herausforderungen
+- Leider wurde mir in der Gruppe nicht viel geholfen, sodass ich das Dokument fast komplett alleine erstellt und asfüllen musste.
+
+- ## Datum: 07.04.2024
+
+### Zeitaufwand: 3 Stunden
+
+### Aufgaben
+- Überarbeitung der bisherigen Kapitel
+- Ergänzung der Arbeitspakete
+
+
+### Probleme/Herausforderungen
 - 
