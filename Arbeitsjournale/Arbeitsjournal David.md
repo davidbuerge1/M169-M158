@@ -103,3 +103,60 @@ Das Arbeitsjournal dient dazu, Arbeitsaktivitäten zu verwalten, Prioritäten zu
 
 ### Probleme/Herausforderungen
 - 
+## Datum: 22.05.2024
+
+### Zeitaufwand: 2 Lektionen
+
+### Aufgaben
+- Erstellung des Dokumentes Realisierung
+- Arbeit an Umsetzung des Projektes
+
+### Probleme/Herausforderungen
+- 
+
+## Datum: 27.05.2024
+
+### Zeitaufwand: 2 Stunden
+
+### Aufgaben
+- Umsetzung der Migration
+
+
+### Probleme/Herausforderungen
+
+## Datum: 28.05.2024
+
+### Zeitaufwand: 2 Stunden 
+
+### Aufgaben
+- Umsetzung der Migration
+
+### Probleme/Herausforderungen
+- 
+## Datum: 29.05.2024
+
+### Zeitaufwand: 3 Lektionen
+
+### Aufgaben
+- Dokummentation Erweitern
+
+### Probleme/Herausforderungen
+- 
+## Datum: 01.06.2024
+
+### Zeitaufwand: 1.5 Stunden Stunden
+
+### Aufgaben
+- Dokummentation Erweitern
+
+### Probleme/Herausforderungen
+-
+## Datum: 02.06.2024
+
+### Zeitaufwand: 1.5 Stunden Stunden
+
+### Aufgaben
+- Dokummentation Erweitern
+
+### Probleme/Herausforderungen
+- 
