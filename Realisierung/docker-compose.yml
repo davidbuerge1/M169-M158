@@ -1,0 +1,48 @@
+version: '3.9' # Version des Docker Compose Formats
+
+services:
+  mariadb: # Definition des MariaDB-Datenbankdienstes
+    image: mariadb # Das MariaDB-Docker-Image wird verwendet
+    restart: always # Der Container wird immer neu gestartet, wenn er stoppt
+    volumes:
+      - DB-Volume:/var/lib/mysql # Datenbankdaten werden in einem benannten Volumen gespeichert
+    networks:
+      - moodle-network # Der Dienst wird dem moodle-network-Netzwerk hinzugefügt
+    environment:
+      - MYSQL_RANDOM_ROOT_PASSWORD=true # Das Root-Passwort wird zufällig generiert
+      - MYSQL_USER=system-manager # Benutzername für die Datenbank
+      - MYSQL_PASSWORD=akdsfksdfksdf # Passwort für den Benutzer
+      - MYSQL_DATABASE=moodle # Name der zu erstellenden Datenbank
+
+  phpmyadmin: # Definition des phpMyAdmin-Dienstes
+    image: phpmyadmin/phpmyadmin # Das phpMyAdmin-Docker-Image wird verwendet
+    restart: always # Der Container wird immer neu gestartet, wenn er stoppt
+    ports:
+      - 88:80 # Der Dienst ist über Port 88 auf dem Host erreichbar und wird auf Port 80 im Container weitergeleitet
+    environment:
+      - PMA_HOST=mariadb # Der Hostname der MariaDB, zu der sich phpMyAdmin verbindet
+    networks:
+      - moodle-network # Der Dienst wird dem moodle-network-Netzwerk hinzugefügt
+
+  moodle: # Definition des Moodle-Dienstes
+    image: bitnami/moodle:4.1 # Das Bitnami Moodle-Docker-Image wird verwendet, Version 4.1
+    restart: always # Der Container wird immer neu gestartet, wenn er stoppt
+    ports:
+      - 80:8080 # Der Dienst ist über Port 80 auf dem Host erreichbar und wird auf Port 8080 im Container weitergeleitet
+    volumes:
+      - Moodle-Volume:/bitnami/moodle # Moodle-Daten werden in einem benannten Volumen gespeichert
+      - ./moodledata:/bitnami/moodledata # Moodle-Daten werden im lokalen Verzeichnis `./moodledata` gespeichert und im Container nach `/bitnami/moodledata` gemountet
+    networks:
+      - moodle-network # Der Dienst wird dem moodle-network-Netzwerk hinzugefügt
+    environment:
+      - MOODLE_DATABASE_HOST=mariadb # Hostname der Datenbank
+      - MOODLE_DATABASE_USER=system-manager # Benutzername für die Datenbankverbindung
+      - MOODLE_DATABASE_PASSWORD=akdsfksdfksdf # Passwort für die Datenbankverbindung
+      - MOODLE_DATABASE_NAME=moodle # Name der Moodle-Datenbank
+
+volumes:
+  DB-Volume: # Definition des benannten Volumens für die MariaDB-Daten
+  Moodle-Volume: # Definition des benannten Volumens für die Moodle-Daten
+
+networks:
+  moodle-network: # Definition des benutzerdefinierten Netzwerks für die Dienste
