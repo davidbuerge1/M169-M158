@@ -20,7 +20,7 @@ festgehalten. Auch wird immer einen kurzer Blick auf den Zeitplan geworfen.
 Beginn auffüllen des Lastenheftes
 Beginn auffüllen des Testkonzepts
 
-#### Probleme/Herausforderungen
+### Probleme/Herausforderungen
 Anfangs hatten wir etwas Schwierigkeiten, einen Überblick über die Vorgaben zu erhalten. Zusätzlich mussten wir herausfinden, wie ein Lastenheft seriös auszufüllen ist. 
 
 ### Ausblick
