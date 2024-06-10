@@ -17,11 +17,11 @@ festgehalten. Auch wird immer einen kurzer Blick auf den Zeitplan geworfen.
 #### Zeitaufwand: 2 Lektionen
 
 #### Aufgaben
-- Beginn auffüllen des Lastenheftes
-- Beginn auffüllen des Testkonzepts
+Beginn auffüllen des Lastenheftes
+Beginn auffüllen des Testkonzepts
 
 #### Probleme/Herausforderungen
-- Anfangs hatten wir etwas Schwierigkeiten, einen Überblick über die Vorgaben zu erhalten. Zusätzlich mussten wir herausfinden, wie ein Lastenheft seriös auszufüllen ist. 
+Anfangs hatten wir etwas Schwierigkeiten, einen Überblick über die Vorgaben zu erhalten. Zusätzlich mussten wir herausfinden, wie ein Lastenheft seriös auszufüllen ist. 
 
 #### Ausblick
-- test
+test
